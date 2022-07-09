@@ -1,0 +1,30 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Alexis Grubbs;C.E.O. ;;;
+FN:C.E.O.  Alexis Grubbs
+ORG:QUEEN OF FRENCHIES
+COMPANY:QUEEN OF FRENCHIES
+TITLE:
+TEL;TYPE=work,pref:239-910-3885
+TEL;CELL;TYPE=mobile,VOICE:
+TEL;CELL;TYPE=Office,VOICE:
+TEL;CELL;TYPE=FAX,VOICE:
+TEL;TYPE=HOME,VOICE:
+TEL;TYPE=SMS:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:Queenoffrenchiesllc@gmail.com
+URL;TYPE=Digital Business Card:
+
+URL;TYPE=Location:https://goo.gl/maps/Xh6f8DVddXGVoV3h7
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100538282
+URL;TYPE=Website:http://queenoffrenchiesllc.com/
+URL;TYPE=WHATSAPP:
+
+
+URL;TYPE=Facebook:https://facebook.com/@queenoffrenchiesllc
+URL;TYPE=Instagram:https://instagram.com/@queenoffrenchiesllc
+PHOTO;ENCODING=b:DEF
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
